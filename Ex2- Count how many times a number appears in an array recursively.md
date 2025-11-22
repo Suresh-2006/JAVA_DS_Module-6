@@ -12,8 +12,8 @@ To write a Java program to Count how many times a number appears in an array rec
 
 ## Program:
 ```
-Developed by: GANESH D
-RegisterNumber: 212223240035
+Developed by: Suresh S
+RegisterNumber: 212223040215
 ```
 ```
 import java.util.Scanner;
