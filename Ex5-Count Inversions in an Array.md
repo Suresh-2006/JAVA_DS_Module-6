@@ -13,8 +13,8 @@ To write a Java program  to Count the number of inversions in an array where inv
 
 ## Program:
 ```
-Developed by: GANESH D
-RegisterNumber: 212223240035
+Developed by: Suresh S
+RegisterNumber: 212223040215
 ```
 ```
 import java.util.Scanner;
