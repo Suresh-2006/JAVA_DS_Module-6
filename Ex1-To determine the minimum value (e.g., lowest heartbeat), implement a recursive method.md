@@ -12,7 +12,7 @@ To write a JAVA program To determine the minimum value (e.g., lowest heartbeat),
 
 ## Program:
 ```
-/*
+
 
 Developed by: Suresh S
 RegisterNumber: 212223040215
@@ -43,7 +43,7 @@ public class Main {
     }
 }
 
-*/
+
 ```
 
 ## Output:
